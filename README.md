@@ -36,7 +36,7 @@
 
   <!-- Express.js -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/express/FFFFFF" alt="express" width="40" height="40"/>
+    <img src="https://expressjs.com/images/logos/logo-express-white.svg" alt="express" width="60" height="40"/>
   </a>
 
   <!-- MySQL -->
