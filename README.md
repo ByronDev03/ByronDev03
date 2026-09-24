@@ -7,6 +7,9 @@
 
 <h3 align="left">Tech Stack:</h3>
 
+<!-- ==================== FRONTEND ==================== -->
+<h4 align="left">Frontend</h4>
+
 <p align="left">
 
   <!-- HTML -->
@@ -25,9 +28,17 @@
   </a>
 
   <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+
+</p>
+
+
+<!-- ==================== BACKEND ==================== -->
+<h4 align="left">Backend</h4>
+
+<p align="left">
 
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -36,23 +47,47 @@
 
   <!-- Express.js -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-     <img src="https://expressjs.com/images/logos/logo-express-white.svg" alt="express" width="60" height="40"/>
+    <img src="https://expressjs.com/images/logos/logo-express-white.svg" alt="express" width="60" height="40"/>
   </a>
+
+</p>
+
+
+<!-- ==================== DATABASE ==================== -->
+<h4 align="left">Database</h4>
+
+<p align="left">
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
+</p>
+
+
+<!-- ==================== TOOLS ==================== -->
+<h4 align="left">Tools</h4>
+
+<p align="left">
+
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  
+
   <!-- Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+
+</p>
+
+
+<!-- ==================== OTHER ==================== -->
+<h4 align="left">Other</h4>
+
+<p align="left">
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
